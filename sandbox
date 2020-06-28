@@ -1,0 +1,4 @@
+log();
+var log = function() {
+  console.log(greeting);
+}
